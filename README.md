@@ -29,6 +29,8 @@ This project is an interactive web app built with **Streamlit** for predicting c
    ```bash
    git clone https://github.com/yourusername/customer-churn-prediction.git
 Screenshot 📸
-![Screenshot 2025-01-25 145913](https://github.com/user-attachments/assets/de7a1be2-0d1e-4bc0-b56c-c8a82b3a3ae8)(https://github.com/user-attachments/assets/24e3238a-e60b-4fce-95ac-5a5456c306b7)
+![Screenshot 2025-01-25 145913](https://github.com/user-attachments/assets/78929d4c-bc76-43cb-b6fe-8a7a087a0493)![Screenshot 2025-01-25 145006](https://github.com/user-attachments/assets/c9690747-8527-45a8-b8d6-5007309babce)
+
+
 
 
